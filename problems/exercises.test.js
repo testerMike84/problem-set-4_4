@@ -2,9 +2,9 @@ const solutions = require('./exercises');
 
 test('Question 1: makeCounter', () => {
   const countFromFour = solutions.makeCounter(4)
-  countFromFour(); // 5
-  countFromFour(); // 6
-  countFromFour(); // 7
+  expect(countFromFour()).toBe(5);
+  expect(countFromFour()).toBe(6);
+  expect(countFromFour()).toBe(7);
   expect(countFromFour()).toBe(8);
 });
 
