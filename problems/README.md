@@ -67,9 +67,9 @@ maya.school;              // 'Uncommon Schools'
 * `_balance` number which is initialized to 0. This is a private property. 
 
 It should have three methods: 
-* `showBalance()` return the string `Your new balance is $<<balance>>.` where the dollar amount has exactly two decimal places. 
-* `deposit()` which takes in a number amount to add to the balance. It should return the string `Your new balance is $<<balance>>.` where the dollar amount has exactly two decimal places.
-* `withdrawl()` which takes in a number to subtract from the balance. It should return the string `Your new balance is $<<balance>>.` where the dollar amount has exactly two decimal places. **However**, if the amount to withdraw is more than the balance, it should not change the blanace and should return `You do not have enough funds.`
+* `showBalance()` return the string `Your balance is $<<balance>>.`, where the dollar amount has exactly two decimal places. 
+* `deposit()` which takes in a number amount to add to the balance. It should return the string `Your balance is $<<balance>>.`, where the dollar amount has exactly two decimal places.
+* `withdraw()` which takes in a number to subtract from the balance. It should return the string `Your balance is $<<balance>>.`, where the dollar amount has exactly two decimal places. **However**, if the amount to withdraw is more than the balance, it should not change the blanace and should return `You do not have enough funds.`
 ```js
   const ann = new BankAccount("Ann", "Duong");
 
