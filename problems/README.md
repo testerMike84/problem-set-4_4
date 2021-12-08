@@ -15,7 +15,7 @@ countFromOneHundred(); // 102
 countFromOneHundred(); // 103
 ```
 
-2. Create a `Circle` class. An instances should be initialized with two properties:
+2. Create a `Circle` class using ES6 Class syntax. An instances should be initialized with two properties:
  * `radius`, which is a number
  * `color` 
 
@@ -35,7 +35,7 @@ cir.changeColor("blue")  // "blue"
 cir.drawCircle()         // "Drawing a blue circle."
 ```
 
-3. Create a `Teacher` class. A `Teacher` instance should have the following properties:
+3. Create a `Teacher` class using ES6 Class syntax. A `Teacher` instance should have the following properties:
   * `name`
   * `school`
   * `grade`
@@ -61,7 +61,7 @@ maya.changeSchools('Uncommon Schools'); // 'Uncommon Schools'
 maya.school;              // 'Uncommon Schools'
 ```
 
-4. Create a `BankAccount` class. An instance should take in two arguemnts (first and last name) and be initialized with three properties:
+4. Create a `BankAccount` class using ES6 Class syntax. An instance should take in two arguemnts (first and last name) and be initialized with three properties:
 * `firstName` 
 * `lastName` 
 * `_balance` number which is initialized to 0. This is a private property. 
