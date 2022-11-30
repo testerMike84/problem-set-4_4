@@ -8,4 +8,3 @@
 
 3. What is the `__proto__` property and how does it differ from the `protoype` property?
 
-4. What is inheritance?
