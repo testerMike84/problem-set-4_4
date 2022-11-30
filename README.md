@@ -1,5 +1,5 @@
 # Problem Set 4-4
-## Function Execution Context, Prototypes, Constructors, and Class Syntax
+## Function Closures, Prototypes, Constructors, and Class Syntax
 
 ### Short Response Section
 Answer short response questions directly in the `short-response.md` file. Answer questions in 2 - 3 sentences. Be sure to format your responses appropriately.
