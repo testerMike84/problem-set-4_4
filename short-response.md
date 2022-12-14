@@ -4,7 +4,7 @@
 
 1. What is a closure?
 
-2. Below are a factory function for making a `Square` object and a constructor function for making a `Rectangle` object. How would you initialize an instance of each?
+2. Below are a factory function for making a `Square` object and a constructor function for making a `Rectangle` object. Modify the code below to initialize an instance of each (replace the `REPLACE_ME`).
 
 ```js
 function makeSquare(sideLength) {
