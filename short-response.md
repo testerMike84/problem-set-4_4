@@ -30,6 +30,6 @@ const mySquare = REPLACE_ME
 const myRectangle = REPLACE_ME
 ```
 
-3. What are the benefits of using a constructor function to create object instances instead of a factory function?
+3. What are the similarities and differences between constructor functions and factory functions?
 
 4. What is a prototype? How does an _instance_ of a constructor access the constructor's prototype?
